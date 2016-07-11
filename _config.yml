@@ -1,0 +1,14 @@
+layout_spectrum: 0.1504324625711888
+typography_spectrum: 0.22983464156277478
+color:
+  brandStrength: 0.838077595224604
+  lightness: 0.5325894455891103
+  saturation: 0.60315598314628
+  rhythmicContrast: 0.9304507412016392
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: digitalhealthspotlight
