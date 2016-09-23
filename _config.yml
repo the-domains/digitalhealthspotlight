@@ -1,14 +1,37 @@
-layout_spectrum: 0.1504324625711888
-typography_spectrum: 0.22983464156277478
+typography_spectrum: 0.2851064
 color:
+  saturation: 0.603156
   brandStrength: 0.838077595224604
-  lightness: 0.5325894455891103
-  saturation: 0.60315598314628
-  rhythmicContrast: 0.9304507412016392
+  lightness: 0.612766
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-name: digitalhealthspotlight
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  rhythmicContrast: 0.9304507
+github: true
+layout_spectrum: 0.9319149
+name: 'Digital Health Spotlight '
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: 'Digital Health '
+description: |
+  quantified health
+purpose:
+  - type: contact
+    url: 'mailto:harsha2205k@gmail.com'
+    label: Contact me
+  - type: external
+    url: 'https://harsha54.typeform.com/to/sHy8Fk'
+    label: Need specific info
